@@ -1,4 +1,3 @@
-### README File Text  
 
 # Stone, Paper, Scissors Game ✊✋✌️  
 
